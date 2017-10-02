@@ -1,4 +1,4 @@
-# CloudBuster plugin for ExpressionEngine 2.4.x and 2.5.x
+# CloudBuster plugin for ExpressionEngine 2.4.x / 2.5.x
 
 Busts caching on Cloudflare when entries or files are updated/uploaded.
 
