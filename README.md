@@ -2,7 +2,7 @@
 
 Busts caching on Cloudflare when entries or files are updated/uploaded.
 
-![CloudBuster Icon](https://rawgit.com/bluestorm/ee2-cloudbuster/master/resources/icon.svg)
+![CloudBuster Icon](https://cdn.rawgit.com/bluestorm/ee2-cloudbuster/master/resources/icon.svg)
 
 ## Installation
 
